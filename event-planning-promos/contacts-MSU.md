@@ -48,11 +48,12 @@
 
 ## College of Business
 ### Business analytics
-- [ ] ???
+- [ ] Betsey Vorhees
 
 ## College of Social Sciences
-### Social science analytics
-- [ ] ???
+### Social science Data analytics
+- [ ] Shengpan Lin
+- [ ] Ashton Shortridge
 
 ### Political sciences
 - [ ] ???
